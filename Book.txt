@@ -1,12 +1,32 @@
-intro.md
-auto.md
-bus.md
-metro.md
-taxi.md
+frontmatter:
+credits.md
+
+mainmatter:
+
+getting-to-iitd.md
+
+via/auto.md
+via/bus.md
+via/metro.md
+via/taxi.md
+
+# Quick info to get to IITD from various important junctions
 quick-info.md
-anand-vihar.md
-indira-gandhi-airport-palam-airport.md
-kashmere-gate.md
-ndls.md
-nizamuddin-isbt-sarai-kale-khan.md
-old-delhi-railway-station.md
+
+from/anand-vihar.md
+from/indira-gandhi-airport-palam-airport.md
+from/kashmere-gate.md
+from/ndls.md
+from/nizamuddin-isbt-sarai-kale-khan.md
+from/old-delhi-railway-station.md
+
+# converted_files.txt
+# To be organized.
+
+Born Appetite.txt
+foodjoints.txt
+Markets.txt
+
+Sports facilities at IITD.txt
+
+errata.md
