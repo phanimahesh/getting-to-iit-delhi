@@ -10,10 +10,7 @@ Freshers of IIT Delhi.  However, anyone may find this book useful.
 You can download the book in pdf, epub, and mobi formats from [leanpub][]
 
 #### Should I pay?
-Leanpub allows authors to sell books. Infact, that's what it is for. But don't worry. The book will be made available for zero cost once published.
-
-#### I'm interested in this book. Can you mail me when this gets published?
-On the [Leanpub page][leanpub], there is a form to fill out your name and email. Enter a pay amount of zero, optionally, share your email with me, and click 'Notify me when this is published.'
+Leanpub allows authors to sell books. Infact, that's what it is for. But don't worry. The book is available for zero cost.
 
 ### I have a correction/update. What do I do?
 Feel free to mail me your patches, or send pull requests.
