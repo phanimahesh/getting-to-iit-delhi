@@ -21,18 +21,18 @@ The most important routes that you shall require are provided in the following s
 |International Airport  |/Hostel gate   |Express[^a]|Unavailable|
 |-----------------------|---------------|-----------|-----------|
 |Palam Airport          |IITD Main Gate |764,764A   |AC/Non-AC  |
-|                       |/Hostel gate   |765        |           |
+|                       |/Hostel gate   |           |           |
 |-----------------------|---------------|-----------|-----------|
 |Hazrat Nizamuddin      |IITD Main Gate |No direct  |Info       |
-|Railway Station        |/Hostel gate   |route      |Unavailable|
+|Railway Station        |/Hostel gate   |route. 764 - Nehru Place then 427 - Hazrat Nizammudin Station      |Unavailable|
 |-----------------------|---------------|-----------|-----------|
 |Hauz Khas              |IITD Main Gate |764,764A,  |AC/Non-AC  |
-|Metro Station          |/Hostel gate   |765,620,   |           |
+|Metro Station          |/Hostel gate   |620,       |           |
 |                       |               |511[^onlyG]|           |
 |-----------------------|---------------|-----------|-----------|
 |Kashmiri Gate ISBT     |IITD Main Gate |622        |Non-AC     |
 
-[^a]: Some mentors report that this bus was never sighted around IITD and there is no mention in the DTC web site.
+[^a]: Some mentors report that this bus was never sighted around IITD.
 
 [^onlyG]: Only girls hostel gate.
 
