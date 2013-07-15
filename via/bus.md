@@ -18,13 +18,13 @@ The most important routes that you shall require are provided in the following s
 |Railway Station        |Hostel Gate    |           |           |
 |-----------------------|---------------|-----------|-----------|
 |Indira Gandhi          |IITD Main Gate |Airport    |Info       |
-|International Airport  |/Hostel gate   |Express[^a]|Unavailable|
+|International Airport  |/Hostel gate   |Express[^airport-express-bus]|Unavailable|
 |-----------------------|---------------|-----------|-----------|
 |Palam Airport          |IITD Main Gate |764,764A   |AC/Non-AC  |
 |                       |/Hostel gate   |           |           |
 |-----------------------|---------------|-----------|-----------|
 |Hazrat Nizamuddin      |IITD Main Gate |No direct  |Info       |
-|Railway Station        |/Hostel gate   |route. 764 - Nehru Place then 427 - Hazrat Nizammudin Station      |Unavailable|
+|Railway Station        |/Hostel gate   |route.[^nzm-to-iitd-bus]|Unavailable|
 |-----------------------|---------------|-----------|-----------|
 |Hauz Khas              |IITD Main Gate |764,764A,  |AC/Non-AC  |
 |Metro Station          |/Hostel gate   |620,       |           |
@@ -32,7 +32,9 @@ The most important routes that you shall require are provided in the following s
 |-----------------------|---------------|-----------|-----------|
 |Kashmiri Gate ISBT     |IITD Main Gate |622        |Non-AC     |
 
-[^a]: Some mentors report that this bus was never sighted around IITD.
+[^airport-express-bus]: Some mentors report that this bus was never sighted around IITD.
+
+[^nzm-to-iitd-bus]: IITD can be reached by changing the bus at Nehru Place. From Hazrat Nizamuddin, board 427 to reach Nehru Place and then 764 to reach IITD.
 
 [^onlyG]: Only girls hostel gate.
 
