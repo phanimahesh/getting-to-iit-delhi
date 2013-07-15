@@ -11,11 +11,14 @@ The most important routes that you shall require are provided in the following s
 {title="Bus routes"}
 |Source                 |Destination    |Buses      |Bus type   |
 |:----------------------|:--------------|:---------:|:---------:|
-|New Delhi              |IITD Main Gate |502        |AC/Non-AC  |
-|Railway Station        |               |           |           |
+|New Delhi              |IITD Hostel    |615        |AC/Non-AC  |
+|Railway Station        |Gate           |           |           |
+|-----------------------|---------------|-----------|-----------|
+|Old Delhi              |IITD Girls     |502,603    |AC/Non-AC  |
+|Railway Station        |Hostel Gate    |           |           |
 |-----------------------|---------------|-----------|-----------|
 |Indira Gandhi          |IITD Main Gate |Airport    |Info       |
-|International Airport  |/Hostel gate   |Express    |Unavailable|
+|International Airport  |/Hostel gate   |Express[^a]|Unavailable|
 |-----------------------|---------------|-----------|-----------|
 |Palam Airport          |IITD Main Gate |764,764A   |AC/Non-AC  |
 |                       |/Hostel gate   |765        |           |
@@ -29,11 +32,14 @@ The most important routes that you shall require are provided in the following s
 |-----------------------|---------------|-----------|-----------|
 |Kashmiri Gate ISBT     |IITD Main Gate |622        |Non-AC     |
 
+[^a]: Some mentors report that this bus was never sighted around IITD and there is no mention in the DTC web site.
 [^onlyG]: Only girls hostel gate.
 
 Although we have tried our best to form an exhaustive list of bus-routes, the best thing to do when planning to travel by bus is to ask away! Ask any person nearby who you think might know the answer -- Paan walas, Chaat walas, office-goers and students are especially well-versed with bus-routes (not kidding!). At the end of the day, however, travelling by bus is not the most comfortable journey you can make -- most buses are extremely crowded during peak hours, and it is difficult to stand, let alone carry luggage, in such a situation.
 
 You must note that for every bus number, there are two routes. For example, bus number 764 goes from Nehru Place to Najafgarh, and also from Najafgarh to Nehru Place. You must board the bus going in the right direction. Just like in the Metro, there are seats reserved for senior citizens, the physically challenged and ladies.
+
+**Notes:**
 
 **Our suggestion**: Although very cheap, most buses are still too crowded. AVOID at all costs, on your first trip to Delhi!
 
