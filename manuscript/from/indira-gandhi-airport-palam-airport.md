@@ -1,8 +1,11 @@
 ## From Indira Gandhi International Airport / Palam Airport
 
- - **Nearest metro station** - At Airport itself (IGI Airport)
- - **Nearest bus terminal** - At Airport itself
- - **Autos/taxis** -Easily available outside
+* **Metro**: In Delhi, metro is one of the cheapest and comfortable mode of travel , but for coming to IIT from the airport, it will be a bit expensive and would be difficult because you would be carrying your luggage with you. However,if you are ready to handle your luggage and ready to bear a little "dhakka-mukki" (especially during the peak times) then take the metro. Metro is available from 5:15 A.M. to 11:15 P.M. It will took around 50 minutes to reach Hauz Khas metro station from airport.
+Go to 3G Terminal inside the airport and board the metro for New Delhi ,the frequency of which is 15 minutes in non-peak hours whereas on peak hours (i.e. 8:00 A.M. to 10:00 A.M. and 4:35 P.M. to 7:44 P.M. from Monday to Friday) the frequency is 10 minutes. The ticket of the metro costs &#8377; 150. On reaching New Delhi you can either buy a ticket for Hauz Khas or can buy a metro card. The ticket would cost &#8377; 16. We would recommend you to buy a metro card (cost &#8377; 100), as it would be a necessity throughout your stay in IIT. From the Hauz Khas metro station you can take an auto which would cost you around &#8377; 30-&#8377; 40 to reach IIT.
 
-**Tell-you-what!**
-If arriving at a non-peak hour, you should preferably [take the metro](#metro). You can also take the Metro during peak hours, but be prepared for some dhakka-mukki. If unsure, you can always take an auto/taxi.
+* **Bus**: Delhi is famous for its Low Floor Buses. Many of them are Air Conditioned Buses so you will get some relief from the burning hot sun. It is available just outside the Palam Airport. Take bus 764/764A which is available from 6:00 A.M. to 10:00 P.M. at an average frequency of 30 minutes. You can also take bus 765 which would drop you at the IIT Hostel Gate(Boys Hostel Gate). The bus will cost you a maximum of &#8377; 25.
+
+* **Auto**: There isn’t any official auto stand at the airport. However, you can get an auto after walking a distance of approximately 500 meters outside or maybe you could wait for a while as some autos drop passengers at the airport. The distance from IIT to airport is 10.69Km so it should cost you around &#8377; 120 according to the meter but they will ask you for &#8377; 200 so try to bargain them as much as you can :p
+
+* **Pre- Paid taxis**: Pay &#8377; 290 and get the slip from the pre paid counter (One counter stationed inside the airport terminal and another just outside the arrivals of the airport). It is the most preferred choice of the people who come to Delhi for their first time. You could club along with another IITian if you are lucky to find one which would make the price a bit reasonable.  
+**Comment**- You don’t have to pay the driver :P

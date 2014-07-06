@@ -6,9 +6,9 @@ When coming from the New Delhi/Nizamuddin Railway Stations, you will find a Pre-
 
 The rates for Auto-rickshaws in Delhi are:
 
- - For first 2 kilometres -- Rs. 25
- - For every consequent kilometre -- Rs. 8/km
+ - For first 2 kilometres -- &#8377; 25
+ - For every consequent kilometre -- &#8377; 8/km
 
-For example, the distance from NDLS to IIT is approximately 13.6 km., so the appropriate charge for an Auto would be Rs. 120. You may round it off to the nearest greatest integer. Consider it a tip of sorts.
+For example, the distance from NDLS to IIT is approximately 13.6 km., so the appropriate charge for an Auto would be &#8377; 120. You may round it off to the nearest greatest integer. Consider it a tip of sorts.
 
 **Our suggestion:** After the Metro, this is your second-best option. If this is your first visit to Delhi and you wish to experience the city in all its glory, then for the now-buried JEE's sake, take an Auto!
