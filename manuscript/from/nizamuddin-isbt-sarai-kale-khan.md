@@ -5,17 +5,18 @@
  - **Autos/Taxis** - Easily available outside
 
 **Fare from Hazrat Nizamuddin Railway station**
-Auto Fare - ₹ 191/-
-Taxi Fare - ₹ 330/-
-AC Taxi -  ₹ 373/-
+
+ - Auto Fare - ₹ 191/-
+ - Taxi Fare - ₹ 330/-
+ - AC Taxi -  ₹ 373/-
 
 **Fare from ISBT Sarai Kale Khan**
-Auto Fare- ₹ 208/-
-Taxi Fare - ₹ 359/-
-AC Taxi - ₹ 407/-
- 
-** Metro Fare from Jangpura,Lajpat Nagar,INA**
- ₹ 10/-  
+
+ - Auto Fare- ₹ 208/-
+ - Taxi Fare - ₹ 359/-
+ - AC Taxi - ₹ 407/-
+
+**Metro Fare from Jangpura,Lajpat Nagar,INA:** ₹ 10/-  
  See more information on [Metro.](#metro)
 
 **Tell-you-what!**

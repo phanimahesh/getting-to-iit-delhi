@@ -2,6 +2,10 @@
 
 Please send in your corrections, if any, to phanimahesh@gmail.com
 
+- 7-Jul-14 - Minor corrections and formatting changes by JPM.
+  - TODO: The markets document has grown huge. It needs to be split and restructured.
+  - TODO: Due to edits by a large team, formatting became little less consistent. In need of review.
+
 - 7-Jul-14 - Updates received from Mentorship Team 2014-15
     Revisions to fares, guides to reach IITD, food joints, markets and sports facilities.
 
