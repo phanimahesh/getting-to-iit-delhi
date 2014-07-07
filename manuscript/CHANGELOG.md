@@ -2,12 +2,15 @@
 
 Please send in your corrections, if any, to phanimahesh@gmail.com
 
-- 7-Jul-14 - Minor corrections and formatting changes by JPM.
-  - TODO: The markets document has grown huge. It needs to be split and restructured.
-  - TODO: Due to edits by a large team, formatting became little less consistent. In need of review.
+- 7-Jul-14
+  - Updates received from Mentorship Team 2014-15
+  - Revisions to fares, guides to reach IITD, food joints, markets and sports facilities.
+  - Minor corrections and formatting changes by JPM.
+  - Notes:
+    - TODO: The markets document has grown huge. It needs to be split and restructured.
+    - TODO: Due to edits by a large team, formatting became little less consistent. In need of review.
+    - No accented characters in names please, the section Bon Apetit was skipped due to that.
 
-- 7-Jul-14 - Updates received from Mentorship Team 2014-15
-    Revisions to fares, guides to reach IITD, food joints, markets and sports facilities.
 
 - 15-Jul-13 - Auto fares updated to reflect the changed price.
     New fares since May 1st 2013 first 2kms - ₹ 25 for every consequent km- ₹ 8.
